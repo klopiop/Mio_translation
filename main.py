@@ -1,5 +1,7 @@
 from translation import translation
-from ocr import ocr # 待开发
+from translation.utils import AuthV3Util
+
+# from ocr import ocr # 待开发
 import os
 
 while True:
